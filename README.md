@@ -30,3 +30,17 @@ Mi proyecto está desarrollado en lenguaje Goland y se encuentra estructurado en
 - **Módulo resumen de ventas:** Este módulo ofrece un reporte filtrado por día, mostrando el total de ventas realizadas en una fecha determinada.
 
 - **Módulo de formas de pago:** expone las opciones disponibles para completar una transacción: efectivo, transferencia bancaria o tarjeta, ampliando la experiencia del cliente.
+
+
+## **Servicios Web implementados**
+![E-commerce Logo](https://lbntechsolutions.com/blogs/wp-content/uploads/2022/11/Ecommerce-Web-Development-Company.jpg)
+
+**1.	Productos:** lista o detalle de productos que tiene la tienda a disposición 
+**2.	Usuarios:** lista de usuarios o clientes 
+**3.	Identificación de Usuario:** detalle completo de un usuario o cliente
+**4.	Carrito:** productos en el carrito de un usuario o cliente
+**5.	Pedidos:** pedidos realizados por el usuario o cliente 
+**6.	Reportes:** reporte general de ventas realizadas
+**7.	Historial de usuario:** historial de compras por usuario o cliente
+**8.	Ventas por fecha:** detalle general de ventas por fecha
+**9.	Formas de pago:** opciones de pago disponibles para el producto
