@@ -2,7 +2,9 @@
 ![Ecommerce Logo](https://img.freepik.com/vector-premium/diseno-logotipos-comercio-electronico_624194-144.jpg?w=360)
 ##  **Datos**
 •	**Nombre:** Bryan D. Ponce B.
+
 •	**Asignatura:** Programación Orientada a Objetos
+
 •	**Fecha de elaboración:** 28 de Febrero 2026
 
 ## **Objetivo**
