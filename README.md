@@ -1,17 +1,17 @@
 # Sistema de gestion E-commerce
 ![Ecommerce Logo](https://img.freepik.com/vector-premium/diseno-logotipos-comercio-electronico_624194-144.jpg?w=360)
-##  **Datos**
+##  <ins>**Datos**</ins>
 •	**Nombre:** Bryan D. Ponce B.
 
 •	**Asignatura:** Programación Orientada a Objetos
 
 •	**Fecha de elaboración:** 28 de Febrero 2026
 
-## **Objetivo**
+## <ins>**Objetivo**</ins>
 
 El sistema de gestión e commerce que seleccione tiene como finalidad administrar productos, usuarios y pedidos de manera eficiente generando confianza en los usuarios, garantizando una interacción eficaz entre tienda y cliente o usuario. Ofreciendo una experiencia amigable en el comercio digital.
 
-## **Funcionalidades principales** 
+## <ins>**Funcionalidades principales**</ins> 
 
 Mi proyecto está desarrollado en lenguaje Goland y se encuentra estructurado en módulos independientes los cuales nos permiten mantener una estructura clara, concisa y escalable:
 
@@ -32,7 +32,7 @@ Mi proyecto está desarrollado en lenguaje Goland y se encuentra estructurado en
 - **Módulo de formas de pago:** expone las opciones disponibles para completar una transacción: efectivo, transferencia bancaria o tarjeta, ampliando la experiencia del cliente.
 
 
-## **Servicios Web implementados**
+## <ins>**Servicios Web implementados**</ins>
 ![E-commerce Logo](https://lbntechsolutions.com/blogs/wp-content/uploads/2022/11/Ecommerce-Web-Development-Company.jpg)
 
 **1.	Productos:** lista o detalle de productos que tiene la tienda a disposición
