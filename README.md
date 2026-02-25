@@ -5,7 +5,7 @@
 
 •	**Asignatura:** Programación Orientada a Objetos
 
-•	**Fecha de elaboración:** 28 de Febrero 2026
+•	**Fecha de elaboración:** de Febrero 2026
 
 ## <ins>**Objetivo**</ins>
 
