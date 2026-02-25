@@ -39,16 +39,14 @@ Mi proyecto está desarrollado en lenguaje Goland y se encuentra estructurado en
 
 **2.	Usuarios:** lista de usuarios o clientes
 
-**3.	Identificación de Usuario:** detalle completo de un usuario o cliente
+**3.	Carrito:** productos en el carrito de un usuario o cliente
 
-**4.	Carrito:** productos en el carrito de un usuario o cliente
+**4.	Pedidos:** pedidos realizados por el usuario o cliente
 
-**5.	Pedidos:** pedidos realizados por el usuario o cliente
+**5.	Reportes:** reporte general de ventas realizadas
 
-**6.	Reportes:** reporte general de ventas realizadas
+**6.	Historial de usuario:** historial de compras por usuario o cliente
 
-**7.	Historial de usuario:** historial de compras por usuario o cliente
+**7.	Ventas por fecha:** detalle general de ventas por fecha
 
-**8.	Ventas por fecha:** detalle general de ventas por fecha
-
-**9.	Formas de pago:** opciones de pago disponibles para el producto
+**8.	Formas de pago:** opciones de pago disponibles para el producto
